@@ -1,0 +1,3589 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "gKGMNAS0IwALoYEAOjUN_",
+      "type": "rectangle",
+      "x": 12087.92627361633,
+      "y": 3488.4093291013337,
+      "width": 3268.3334350585938,
+      "height": 2246.667060852051,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aX",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1083338626,
+      "version": 446,
+      "versionNonce": 2059016450,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "farODtGN56EN1kM53-jpx"
+        },
+        {
+          "id": "rKFcsF56iPIeZSrgJ-Muf",
+          "type": "arrow"
+        },
+        {
+          "id": "u90Swja0ie8CdSRAW8QLh",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1792756607562,
+      "created": 1792756077538,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "farODtGN56EN1kM53-jpx",
+      "type": "text",
+      "x": 13695.982998164669,
+      "y": 3493.4093291013337,
+      "width": 52.21998596191406,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aY",
+      "roundness": null,
+      "seed": 1961020674,
+      "version": 371,
+      "versionNonce": 873037954,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792756524706,
+      "created": 1792756081593,
+      "link": null,
+      "locked": false,
+      "text": "ISP",
+      "fontSize": 28,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": "gKGMNAS0IwALoYEAOjUN_",
+      "originalText": "ISP",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "hnTwnW-Y3BDP4qVOqW_17",
+      "type": "rectangle",
+      "x": 6133.7323174668745,
+      "y": 3826.826754267944,
+      "width": 3089.6668701171884,
+      "height": 1421.3339335123692,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aYG",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 607203998,
+      "version": 1897,
+      "versionNonce": 1974399006,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "4LrMR3LMtWEzRlAyx6Ft5"
+        },
+        {
+          "id": "iE5m_7G6H-slKYlvnWkel",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1792755370950,
+      "created": 1792747911223,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "4LrMR3LMtWEzRlAyx6Ft5",
+      "type": "text",
+      "x": 7611.335787315507,
+      "y": 3831.826754267944,
+      "width": 134.45993041992188,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aYV",
+      "roundness": null,
+      "seed": 1919290370,
+      "version": 1687,
+      "versionNonce": 148323422,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792755370950,
+      "created": 1792747920776,
+      "link": null,
+      "locked": false,
+      "text": "Home Network",
+      "fontSize": 20,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": "hnTwnW-Y3BDP4qVOqW_17",
+      "originalText": "Home Network",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "pS13p44bG5XMbtcXc59sg",
+      "type": "rectangle",
+      "x": 6653.133044745092,
+      "y": 4217.596242570137,
+      "width": 788.0743886762881,
+      "height": 674.3467546314754,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aYl",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1996139102,
+      "version": 1176,
+      "versionNonce": 697381726,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "iaLVCUsVFLibX-6SZtHRR"
+        },
+        {
+          "id": "-MijRkwaR0wO19XCsnkyk",
+          "type": "arrow"
+        },
+        {
+          "id": "Mrvk8ApR1O-exawvqrdmM",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1792753939739,
+      "created": 1792747948361,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "iaLVCUsVFLibX-6SZtHRR",
+      "type": "text",
+      "x": 6686.8404966515955,
+      "y": 4442.269619885875,
+      "width": 720.6594848632812,
+      "height": 225,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aZ",
+      "roundness": null,
+      "seed": 1013393602,
+      "version": 1579,
+      "versionNonce": 1712265118,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792753939739,
+      "created": 1792747975498,
+      "link": null,
+      "locked": false,
+      "text": "My Laptop\n\n\nNIC Cards - 1 for wifi, 1 for Ethernet, maybe any other as well\n\nEach NIC card gets a MAC address\n\nEach NIC card also gets an IP address in local network (e.g - 192.168.1.5\nmaybe my wifi nic local IP)",
+      "fontSize": 20,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "pS13p44bG5XMbtcXc59sg",
+      "originalText": "My Laptop\n\n\nNIC Cards - 1 for wifi, 1 for Ethernet, maybe any other as well\n\nEach NIC card gets a MAC address\n\nEach NIC card also gets an IP address in local network (e.g - 192.168.1.5 maybe my wifi nic local IP)",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "a9EAApTUMYq8rf5E5EDDR",
+      "type": "rectangle",
+      "x": 7826.331337179676,
+      "y": 4213.732490605835,
+      "width": 779.5798876587733,
+      "height": 679.3791621540882,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aZV",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 269135170,
+      "version": 1101,
+      "versionNonce": 346968862,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "Lx1aLW49w8s2z1X-fDSuZ"
+        },
+        {
+          "id": "-MijRkwaR0wO19XCsnkyk",
+          "type": "arrow"
+        },
+        {
+          "id": "w1j8YhWrY2I2TtuLIumqA",
+          "type": "arrow"
+        },
+        {
+          "id": "sHc5nrkt5jDASQ3jgx0T1",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1792756412163,
+      "created": 1792748395902,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "Lx1aLW49w8s2z1X-fDSuZ",
+      "type": "text",
+      "x": 7834.601505618437,
+      "y": 4428.422071682879,
+      "width": 763.03955078125,
+      "height": 250,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aa",
+      "roundness": null,
+      "seed": 549637250,
+      "version": 1177,
+      "versionNonce": 1719916162,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792754623803,
+      "created": 1792748403639,
+      "link": null,
+      "locked": false,
+      "text": "My router\n\nIt has internal NIC (for wifi / LAN) and external NIC for internet\n\nConsequently it also get internal and external IPs\n\n192.168.1.1 maybe (and usually is) router's internal IP.\n\nMy router also has a public IP given by the ISP, which is the IP services over\nthe internet see",
+      "fontSize": 20,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "a9EAApTUMYq8rf5E5EDDR",
+      "originalText": "My router\n\nIt has internal NIC (for wifi / LAN) and external NIC for internet\n\nConsequently it also get internal and external IPs\n\n192.168.1.1 maybe (and usually is) router's internal IP.\n\nMy router also has a public IP given by the ISP, which is the IP services over the internet see",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "-MijRkwaR0wO19XCsnkyk",
+      "type": "arrow",
+      "x": 7438.69760691156,
+      "y": 4436.884853982132,
+      "width": 388.27734501947725,
+      "height": 0.9075492731767554,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ab",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 131947330,
+      "version": 1456,
+      "versionNonce": 1506178014,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1792753939739,
+      "created": 1792748685899,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          226.82433250184738,
+          -0.9075492731767554
+        ],
+        [
+          388.27734501947725,
+          -0.34112198649017955
+        ]
+      ],
+      "startBinding": {
+        "elementId": "pS13p44bG5XMbtcXc59sg",
+        "mode": "inside",
+        "fixedPoint": [
+          0.9968152416245432,
+          0.325186723159711
+        ]
+      },
+      "endBinding": {
+        "elementId": "a9EAApTUMYq8rf5E5EDDR",
+        "mode": "inside",
+        "fixedPoint": [
+          0.000825591785460369,
+          0.32796301947699646
+        ]
+      },
+      "startArrowhead": "arrow",
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "EeUWoDKyLoPpbGNrpg8qf",
+      "type": "rectangle",
+      "x": 844.7357511176842,
+      "y": -3810.181188195314,
+      "width": 1059.8863455073933,
+      "height": 679.4884770618276,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "add",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 962908894,
+      "version": 1306,
+      "versionNonce": 1258486622,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "t309jKEnQZaCq8znuzzEw"
+        },
+        {
+          "id": "stT3i--zjrz8WMhfGyZKD",
+          "type": "arrow"
+        },
+        {
+          "id": "L5Nd7qXSAlDOuGFIV34eT",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1792754477802,
+      "created": 1792749346163,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "t309jKEnQZaCq8znuzzEw",
+      "type": "text",
+      "x": 854.4193413518497,
+      "y": -3732.9369496644003,
+      "width": 1040.5191650390625,
+      "height": 525,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "adl",
+      "roundness": null,
+      "seed": 155371294,
+      "version": 3049,
+      "versionNonce": 101179294,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1792754477802,
+      "created": 1792749346163,
+      "link": null,
+      "locked": false,
+      "text": "NIC - \nNetwork Interface Card\n\nIt is like a min computer with it's own processor and memory and a very specific task.\n\nAs long as the wifi or ehternet is on, the NIC physical transceiver circuit is on.\nThe wifi NIC listens for radio signals, ethernet nic listens for wire signals\n\nWhen a voltage or radio change is detected the NIC clock locks onto the preamble (will look into this\nlater) and starts assembling the incoming bits in a FIFO buffer on it's own memory.\n\n\nIf after assembling the bits, the target MAC is not the NIC's MAC, it discards the message and never\nsends it to the CPU\n\nException being an all listen MAC address, if the message has that MAC then also it is not discarded.\n\n\nSo if the target MAC is valid and checksum passes, the message is placed in the by the NIC by process of\nDirect Memory Access (DMA). And it also tells the main CPU via an interrupt that I placed this message\nframe in your main memory, check it when you have time",
+      "fontSize": 20,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "EeUWoDKyLoPpbGNrpg8qf",
+      "originalText": "NIC - \nNetwork Interface Card\n\nIt is like a min computer with it's own processor and memory and a very specific task.\n\nAs long as the wifi or ehternet is on, the NIC physical transceiver circuit is on.\nThe wifi NIC listens for radio signals, ethernet nic listens for wire signals\n\nWhen a voltage or radio change is detected the NIC clock locks onto the preamble (will look into this later) and starts assembling the incoming bits in a FIFO buffer on it's own memory.\n\n\nIf after assembling the bits, the target MAC is not the NIC's MAC, it discards the message and never sends it to the CPU\n\nException being an all listen MAC address, if the message has that MAC then also it is not discarded.\n\n\nSo if the target MAC is valid and checksum passes, the message is placed in the by the NIC by process of Direct Memory Access (DMA). And it also tells the main CPU via an interrupt that I placed this message frame in your main memory, check it when you have time",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "6CtVMX1_HGjpg1Kn6nTf9",
+      "type": "rectangle",
+      "x": -1765.88455827312,
+      "y": -1730.8197510867674,
+      "width": 5191.884364242275,
+      "height": 2675.2075143606626,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "l4rgD6k2Fk47Qza-Ai1_I"
+      ],
+      "frameId": null,
+      "index": "adn",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1263448898,
+      "version": 451,
+      "versionNonce": 1783039134,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "1_vkRP2FERU2T2Ij5GXw7"
+        },
+        {
+          "id": "stT3i--zjrz8WMhfGyZKD",
+          "type": "arrow"
+        },
+        {
+          "id": "iE5m_7G6H-slKYlvnWkel",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1792755271939,
+      "created": 1792750749081,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "1_vkRP2FERU2T2Ij5GXw7",
+      "type": "text",
+      "x": 297.69385431676756,
+      "y": -1725.8197510867674,
+      "width": 1064.7275390625,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "l4rgD6k2Fk47Qza-Ai1_I"
+      ],
+      "frameId": null,
+      "index": "adp",
+      "roundness": null,
+      "seed": 1221456222,
+      "version": 385,
+      "versionNonce": 717903746,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792754167144,
+      "created": 1792750756361,
+      "link": null,
+      "locked": false,
+      "text": "Communication between 2 devices on local network (mainly router and your pc)",
+      "fontSize": 28,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": "6CtVMX1_HGjpg1Kn6nTf9",
+      "originalText": "Communication between 2 devices on local network (mainly router and your pc)",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "Hg4Qh-p01WN0PXEp0g2qY",
+      "type": "rectangle",
+      "x": 2326.3036464692564,
+      "y": -1209.2080219443283,
+      "width": 608.8646883768153,
+      "height": 810,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "l4rgD6k2Fk47Qza-Ai1_I"
+      ],
+      "frameId": null,
+      "index": "adt",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 923688194,
+      "version": 629,
+      "versionNonce": 2135579038,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "_gCj8hHDEaq9HVSMlfOp1"
+        }
+      ],
+      "updated": 1792754167144,
+      "created": 1792748738063,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "_gCj8hHDEaq9HVSMlfOp1",
+      "type": "text",
+      "x": 2332.8161908529764,
+      "y": -1204.2080219443283,
+      "width": 595.839599609375,
+      "height": 800,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "l4rgD6k2Fk47Qza-Ai1_I"
+      ],
+      "frameId": null,
+      "index": "adx",
+      "roundness": null,
+      "seed": 23192770,
+      "version": 1821,
+      "versionNonce": 878188354,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792754167144,
+      "created": 1792748753583,
+      "link": null,
+      "locked": false,
+      "text": "ARP - \nAddress Resolution Protocol\n\nThe PC sends broadcast signal to every device in local\nnetwork. The mac address for this request is sent on is\nFF:FF:FF:FF:FF:FF and asks if your IP is 192.168.1.1, send\nme your MAC address so I can put it in my frame to send\n\nWhen the router sends this to the PC that yeah I am\n192.168.1.1, PC saves this info in the ARP cache\n192.168.1.1 = Router MAC\n\n\nThe ARP Cache Timer: When your PC learns the router's\nMAC address via ARP, it saves that mapping in RAM with a\ncountdown timer (on Windows, dynamic ARP entries usually\nexpire after 15 to 45 seconds of inactivity, or stay alive for\na few minutes if you are actively sending traffic to that\ndevice).\n\nSo ARP cache is present in main memory of each computer\nfor each NIC card. PC has 2 for ethernet/ wifi, more if that\nhappens to be the case.\n\nRouter, which is in itself a mini computer also has 2, inside\nARP cache and outside ARP cache\n\nInsided cachec has the mapping of local devices to local IP\naddress.\n\noutside cache has mapping of the ISP router and that MAC.\nto send to the ISP",
+      "fontSize": 20,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "Hg4Qh-p01WN0PXEp0g2qY",
+      "originalText": "ARP - \nAddress Resolution Protocol\n\nThe PC sends broadcast signal to every device in local network. The mac address for this request is sent on is  FF:FF:FF:FF:FF:FF and asks if your IP is 192.168.1.1, send me your MAC address so I can put it in my frame to send\n\nWhen the router sends this to the PC that yeah I am 192.168.1.1, PC saves this info in the ARP cache\n192.168.1.1 = Router MAC\n\n\nThe ARP Cache Timer: When your PC learns the router's MAC address via ARP, it saves that mapping in RAM with a countdown timer (on Windows, dynamic ARP entries usually expire after 15 to 45 seconds of inactivity, or stay alive for a few minutes if you are actively sending traffic to that device).\n\nSo ARP cache is present in main memory of each computer for each NIC card. PC has 2 for ethernet/ wifi, more if that happens to be the case.\n\nRouter, which is in itself a mini computer also has 2, inside ARP cache and outside ARP cache\n\nInsided cachec has the mapping of local devices to local IP address.\n\noutside cache has mapping of the ISP router and that MAC.  to send to the ISP",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "_QBD4QjS66TP5gglpa6Af",
+      "type": "rectangle",
+      "x": 378.2039306504919,
+      "y": -1306.907152466277,
+      "width": 1463.0300039378922,
+      "height": 735,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "l4rgD6k2Fk47Qza-Ai1_I"
+      ],
+      "frameId": null,
+      "index": "ae",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1402058078,
+      "version": 664,
+      "versionNonce": 758597698,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "WrJsI57eILGvyqnbI2lau"
+        },
+        {
+          "id": "uJa559vwh2fH_q17HSILh",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1792754167143,
+      "created": 1792750001649,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "WrJsI57eILGvyqnbI2lau",
+      "type": "text",
+      "x": 391.34942578350046,
+      "y": -1301.907152466277,
+      "width": 1436.739013671875,
+      "height": 725,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "l4rgD6k2Fk47Qza-Ai1_I"
+      ],
+      "frameId": null,
+      "index": "aeG",
+      "roundness": null,
+      "seed": 1242177666,
+      "version": 945,
+      "versionNonce": 1525798110,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792754167143,
+      "created": 1792750010005,
+      "link": null,
+      "locked": false,
+      "text": "FRAME (Or Ethernet Frame) - \n\nFrame is the lowest message structure that the NIC can read or send. So every NIC knows what the structure of a frame is and if the value of a\nspecific part of frame is different, what to do with that frame\n\n1. An ARP Frame:\n[ Dest MAC ] [ Source MAC ] [ Type: 0x0806 ] [      28-Byte ARP Message      ] [ FCS ]\n\n2. An Internet Data Frame (e.g., from Google):\n[ Dest MAC ] [ Source MAC ] [ Type: 0x0800 ] [ IP Packet -> TCP -> Web Data  ] [ FCS ]\n\n\nThe Outer Shell is Identical: Both have a Destination MAC, a Source MAC, and a Frame Check Sequence (FCS) at the end.\n\nThe EtherType Field (The Label): Sitting right after the Source MAC is a 2-byte code that tells your OS how to read the payload once the NIC\nplaces it in RAM:\n\n0x0806 (ARP): Tells the OS, \"Pass this payload to the ARP lookup module—there is no IP packet inside, just a 28-byte local address\nquestion/answer.\"\n\n0x0800 (IPv4) or 0x86DD (IPv6): Tells the OS, \"Pass this payload up to the IP network stack—there is an Internet Packet inside carrying\nactual data.\"\n\nWhat happens when Google sends you data:\n\nGoogle's data travels across the internet as an IP Packet.\n\nWhen that packet reaches your home Wi-Fi router (the final hop), your router wraps Google's IP Packet inside a brand-new local Frame, stamps\n0x0800 (or 0x86DD for IPv6) on the label, puts your PC's MAC as the Destination MAC, and transmits it over Wi-Fi to your NIC.",
+      "fontSize": 20,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "_QBD4QjS66TP5gglpa6Af",
+      "originalText": "FRAME (Or Ethernet Frame) - \n\nFrame is the lowest message structure that the NIC can read or send. So every NIC knows what the structure of a frame is and if the value of a specific part of frame is different, what to do with that frame\n\n1. An ARP Frame:\n[ Dest MAC ] [ Source MAC ] [ Type: 0x0806 ] [      28-Byte ARP Message      ] [ FCS ]\n\n2. An Internet Data Frame (e.g., from Google):\n[ Dest MAC ] [ Source MAC ] [ Type: 0x0800 ] [ IP Packet -> TCP -> Web Data  ] [ FCS ]\n\n\nThe Outer Shell is Identical: Both have a Destination MAC, a Source MAC, and a Frame Check Sequence (FCS) at the end.\n\nThe EtherType Field (The Label): Sitting right after the Source MAC is a 2-byte code that tells your OS how to read the payload once the NIC places it in RAM:\n\n0x0806 (ARP): Tells the OS, \"Pass this payload to the ARP lookup module—there is no IP packet inside, just a 28-byte local address question/answer.\"\n\n0x0800 (IPv4) or 0x86DD (IPv6): Tells the OS, \"Pass this payload up to the IP network stack—there is an Internet Packet inside carrying actual data.\"\n\nWhat happens when Google sends you data:\n\nGoogle's data travels across the internet as an IP Packet.\n\nWhen that packet reaches your home Wi-Fi router (the final hop), your router wraps Google's IP Packet inside a brand-new local Frame, stamps 0x0800 (or 0x86DD for IPv6) on the label, puts your PC's MAC as the Destination MAC, and transmits it over Wi-Fi to your NIC.",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "A4FbTYFFEy_xiOfSuugKT",
+      "type": "rectangle",
+      "x": -1247.719855344148,
+      "y": -1381.6137804631173,
+      "width": 1319.3148870150742,
+      "height": 879.7728669095127,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "l4rgD6k2Fk47Qza-Ai1_I"
+      ],
+      "frameId": null,
+      "index": "aeV",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 402993474,
+      "version": 433,
+      "versionNonce": 1701376002,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "Dny-KuZWVCAD-MNZu7LFr"
+        },
+        {
+          "id": "uJa559vwh2fH_q17HSILh",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1792754167143,
+      "created": 1792750395145,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "Dny-KuZWVCAD-MNZu7LFr",
+      "type": "text",
+      "x": -1242.441867403017,
+      "y": -1254.227347008361,
+      "width": 1308.7589111328125,
+      "height": 625,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "l4rgD6k2Fk47Qza-Ai1_I"
+      ],
+      "frameId": null,
+      "index": "af",
+      "roundness": null,
+      "seed": 1278526302,
+      "version": 544,
+      "versionNonce": 903842078,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792754167143,
+      "created": 1792750400755,
+      "link": null,
+      "locked": false,
+      "text": "Note on how frame is send to PC from the router - \n\nBecause Wi-Fi uses radio waves through open air, the router has no choice but to physically broadcast the signal across the room.\nEvery device on your Wi-Fi gets hit by those radio waves, reads the first 48 bits, and drops the frame in hardware—except your PC's\nNIC, which recognizes its own MAC and keeps it.\n\nThe only reason networking engineers avoid calling that a \"broadcast\" is to separate Layer 1 Physics from Layer 2 Addressing:\n\nOver Wi-Fi (Shared Air):\n\nUnicast Frame (Dest MAC = Your_PC_MAC): Physically radiates to every antenna in the room. Your phone's NIC and TV's NIC drop it\nat the chip level; only your PC's NIC copies it to RAM.\n\nBroadcast Frame (Dest MAC = FF:FF:FF:FF:FF:FF): Physically radiates to every antenna in the room, and every device's NIC copies\nit to RAM and wakes up its CPU.\n\nOver an Ethernet Cable (Switched Wire):\n\nIf you plug 4 PCs into a router/switch with cables, the router remembers which specific port each MAC lives on.\n\nWhen a frame is addressed to Your_PC_MAC, the switch sends electricity only down your specific wire. The other 3 PCs don't even\nget electrical signals to drop.\n\nSo on Wi-Fi, you nailed it: every frame is physically broadcast through the air, and the Destination MAC acts as the hardware filter\nthat decides whose NIC accepts it and whose NIC throws it in the bin.",
+      "fontSize": 20,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "A4FbTYFFEy_xiOfSuugKT",
+      "originalText": "Note on how frame is send to PC from the router - \n\nBecause Wi-Fi uses radio waves through open air, the router has no choice but to physically broadcast the signal across the room. Every device on your Wi-Fi gets hit by those radio waves, reads the first 48 bits, and drops the frame in hardware—except your PC's NIC, which recognizes its own MAC and keeps it.\n\nThe only reason networking engineers avoid calling that a \"broadcast\" is to separate Layer 1 Physics from Layer 2 Addressing:\n\nOver Wi-Fi (Shared Air):\n\nUnicast Frame (Dest MAC = Your_PC_MAC): Physically radiates to every antenna in the room. Your phone's NIC and TV's NIC drop it at the chip level; only your PC's NIC copies it to RAM.\n\nBroadcast Frame (Dest MAC = FF:FF:FF:FF:FF:FF): Physically radiates to every antenna in the room, and every device's NIC copies it to RAM and wakes up its CPU.\n\nOver an Ethernet Cable (Switched Wire):\n\nIf you plug 4 PCs into a router/switch with cables, the router remembers which specific port each MAC lives on.\n\nWhen a frame is addressed to Your_PC_MAC, the switch sends electricity only down your specific wire. The other 3 PCs don't even get electrical signals to drop.\n\nSo on Wi-Fi, you nailed it: every frame is physically broadcast through the air, and the Destination MAC acts as the hardware filter that decides whose NIC accepts it and whose NIC throws it in the bin.",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "uJa559vwh2fH_q17HSILh",
+      "type": "arrow",
+      "x": 77.59503167092612,
+      "y": -922.4039193017401,
+      "width": 309.4562983825781,
+      "height": 8.268889689229923,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "l4rgD6k2Fk47Qza-Ai1_I"
+      ],
+      "frameId": null,
+      "index": "afV",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 176282946,
+      "version": 493,
+      "versionNonce": 1083154370,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792754167143,
+      "created": 1792750464876,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          309.4562983825781,
+          -8.268889689229923
+        ]
+      ],
+      "startBinding": {
+        "elementId": "A4FbTYFFEy_xiOfSuugKT",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5405565161978462,
+          0.5405565161978461
+        ]
+      },
+      "endBinding": {
+        "elementId": "_QBD4QjS66TP5gglpa6Af",
+        "mode": "inside",
+        "fixedPoint": [
+          0.006047312344380272,
+          0.5118834605106218
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "Cs0ADdUu_U2zCsPKCETLN",
+      "type": "rectangle",
+      "x": 10174.769935134656,
+      "y": -6217.645936688607,
+      "width": 1996.6667938232422,
+      "height": 640,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "9Vj8gs05MIkvVDhex_BEU"
+      ],
+      "frameId": null,
+      "index": "b0B",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 440859970,
+      "version": 1110,
+      "versionNonce": 477003842,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "Hkbva_9UwEKylPNb9wF9T"
+        },
+        {
+          "id": "dj6AqGgCBWOtKBr7EWjn3",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1792756752707,
+      "created": 1792751660133,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "Hkbva_9UwEKylPNb9wF9T",
+      "type": "text",
+      "x": 10219.843932632215,
+      "y": -6212.645936688607,
+      "width": 1906.518798828125,
+      "height": 630,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "9Vj8gs05MIkvVDhex_BEU"
+      ],
+      "frameId": null,
+      "index": "b0C",
+      "roundness": null,
+      "seed": 1870777346,
+      "version": 895,
+      "versionNonce": 1492723714,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792756752707,
+      "created": 1792751681414,
+      "link": null,
+      "locked": false,
+      "text": "Here is the exact low-level journey of a single ping to a Google IP (using simple IPv4 numbers like 8.8.8.8 so it is easy to track), from your\nkeyboard to Google and back.\n\nYour PC: IP 192.168.1.5 | MAC AA:AA\n\nYour Router (Inside Wi-Fi NIC): IP 192.168.1.1 | MAC BB:BB\n\nYour Router (Outside Fibre NIC): Public IP 49.205.10.20 | MAC CC:CC\n\nISP Router (Hop 2): IP 49.205.10.1 | MAC DD:DD\n\nGoogle Server (Hop 7): IP 8.8.8.8 | MAC GG:GG\n\n\n\n\n\n",
+      "fontSize": 28,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "Cs0ADdUu_U2zCsPKCETLN",
+      "originalText": "Here is the exact low-level journey of a single ping to a Google IP (using simple IPv4 numbers like 8.8.8.8 so it is easy to track), from your keyboard to Google and back.\n\nYour PC: IP 192.168.1.5 | MAC AA:AA\n\nYour Router (Inside Wi-Fi NIC): IP 192.168.1.1 | MAC BB:BB\n\nYour Router (Outside Fibre NIC): Public IP 49.205.10.20 | MAC CC:CC\n\nISP Router (Hop 2): IP 49.205.10.1 | MAC DD:DD\n\nGoogle Server (Hop 7): IP 8.8.8.8 | MAC GG:GG\n\n\n\n\n\n",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "m8ksAvB5jbyz-9dADzq09",
+      "type": "rectangle",
+      "x": 10169.214324477918,
+      "y": -5447.645962119923,
+      "width": 1996.6667938232422,
+      "height": 920,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "9Vj8gs05MIkvVDhex_BEU"
+      ],
+      "frameId": null,
+      "index": "b0D",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 518439390,
+      "version": 1300,
+      "versionNonce": 1163450306,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "gBqcxGKutsVlPQoYZ9bP5"
+        },
+        {
+          "id": "dj6AqGgCBWOtKBr7EWjn3",
+          "type": "arrow"
+        },
+        {
+          "id": "XVBUzf9XYkqdJV7XhrQnf",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1792756752707,
+      "created": 1792751885827,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "gBqcxGKutsVlPQoYZ9bP5",
+      "type": "text",
+      "x": 10454.275992873914,
+      "y": -5442.645962119923,
+      "width": 1426.54345703125,
+      "height": 910,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "9Vj8gs05MIkvVDhex_BEU"
+      ],
+      "frameId": null,
+      "index": "b0E",
+      "roundness": null,
+      "seed": 1400862338,
+      "version": 566,
+      "versionNonce": 833392514,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792756752707,
+      "created": 1792751903296,
+      "link": null,
+      "locked": false,
+      "text": "Phase 1: Inside Your PC (Building the Box)\n1. Creating the Ping (Layer 3 - OS):\n\nYou type ping 8.8.8.8.\n\nYour OS creates a tiny ICMP Echo Request payload and wraps it in an IP Packet:\n\nSource IP: 192.168.1.5 | Dest IP: 8.8.8.8\n\n2. The Routing Decision (Layer 3 - OS):\n\nYour OS compares 8.8.8.8 to your home network (192.168.1.x).\n\nIt realises 8.8.8.8 is outside your house, so the packet must go to your Default Gateway (192.168.1.1).\n\n3. Checking the ARP Cache (Layer 2 - OS RAM):\n\nYour OS checks its RAM for 192.168.1.1 and finds your router's inside MAC: BB:BB.\n\n4. Framing & Transmission (Layer 2 & 1 - NIC):\n\nYour OS wraps the IP Packet inside a Frame:\n\n[ Dest MAC: BB:BB ] [ Source MAC: AA:AA ] [ Source IP: 192.168.1.5 | Dest IP: 8.8.8.8 ]\n\nIt hands the frame to your Wi-Fi NIC, which blasts it out as radio waves.",
+      "fontSize": 28,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "m8ksAvB5jbyz-9dADzq09",
+      "originalText": "Phase 1: Inside Your PC (Building the Box)\n1. Creating the Ping (Layer 3 - OS):\n\nYou type ping 8.8.8.8.\n\nYour OS creates a tiny ICMP Echo Request payload and wraps it in an IP Packet:\n\nSource IP: 192.168.1.5 | Dest IP: 8.8.8.8\n\n2. The Routing Decision (Layer 3 - OS):\n\nYour OS compares 8.8.8.8 to your home network (192.168.1.x).\n\nIt realises 8.8.8.8 is outside your house, so the packet must go to your Default Gateway (192.168.1.1).\n\n3. Checking the ARP Cache (Layer 2 - OS RAM):\n\nYour OS checks its RAM for 192.168.1.1 and finds your router's inside MAC: BB:BB.\n\n4. Framing & Transmission (Layer 2 & 1 - NIC):\n\nYour OS wraps the IP Packet inside a Frame:\n\n[ Dest MAC: BB:BB ] [ Source MAC: AA:AA ] [ Source IP: 192.168.1.5 | Dest IP: 8.8.8.8 ]\n\nIt hands the frame to your Wi-Fi NIC, which blasts it out as radio waves.",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "zkVwDeF_AwSCZrxifT40b",
+      "type": "rectangle",
+      "x": 10207.548369888074,
+      "y": -4318.201560061003,
+      "width": 1996.6667938232422,
+      "height": 920,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "9Vj8gs05MIkvVDhex_BEU"
+      ],
+      "frameId": null,
+      "index": "b0F",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1712856990,
+      "version": 1409,
+      "versionNonce": 305352514,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "oBADzHhF2nsR5gUjgLej1"
+        },
+        {
+          "id": "XVBUzf9XYkqdJV7XhrQnf",
+          "type": "arrow"
+        },
+        {
+          "id": "_TaB1soqlfkf9qsUCV0Me",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1792756752707,
+      "created": 1792751947170,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "oBADzHhF2nsR5gUjgLej1",
+      "type": "text",
+      "x": 10234.772269729383,
+      "y": -4295.701560061003,
+      "width": 1942.218994140625,
+      "height": 875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "9Vj8gs05MIkvVDhex_BEU"
+      ],
+      "frameId": null,
+      "index": "b0G",
+      "roundness": null,
+      "seed": 369201758,
+      "version": 517,
+      "versionNonce": 2068584194,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792756752707,
+      "created": 1792751964744,
+      "link": null,
+      "locked": false,
+      "text": "Phase 2: Hop 1 — Your Home Router (The Strip & Rewrite)\n5. Receiving the Frame:\n\nYour router’s Wi-Fi NIC sees Dest MAC: BB:BB, accepts the frame, verifies the FCS checksum, and places it in the router's RAM.\n\n6. Stripping the Outer Frame:\n\nThe router throws the Wi-Fi Frame (AA:AA and BB:BB) in the bin. It pulls out the bare IP Packet and reads Dest IP: 8.8.8.8.\n\n7. NAT — Network Address Translation (Crucial Step):\n\nBecause 192.168.1.5 is a private home IP that doesn't exist on the public internet, Google wouldn't know where to send the reply.\n\nYour router rewrites the Source IP on the packet to its own Public WAN IP (49.205.10.20) and makes a note in its RAM table: \"Ping #1 came\nfrom 192.168.1.5.\"\n\n8. Reframing for the ISP (Hop 2):\n\nThe router looks up the ISP router's IP (49.205.10.1) in its Outside ARP Cache and gets MAC DD:DD.\n\nIt wraps the packet in a brand-new Frame:\n\n[ Dest MAC: DD:DD ] [ Source MAC: CC:CC ] [ Source IP: 49.205.10.20 | Dest IP: 8.8.8.8 ]\n\nThe router's fibre NIC converts this into pulses of light down the fibre optic cable.",
+      "fontSize": 28,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "zkVwDeF_AwSCZrxifT40b",
+      "originalText": "Phase 2: Hop 1 — Your Home Router (The Strip & Rewrite)\n5. Receiving the Frame:\n\nYour router’s Wi-Fi NIC sees Dest MAC: BB:BB, accepts the frame, verifies the FCS checksum, and places it in the router's RAM.\n\n6. Stripping the Outer Frame:\n\nThe router throws the Wi-Fi Frame (AA:AA and BB:BB) in the bin. It pulls out the bare IP Packet and reads Dest IP: 8.8.8.8.\n\n7. NAT — Network Address Translation (Crucial Step):\n\nBecause 192.168.1.5 is a private home IP that doesn't exist on the public internet, Google wouldn't know where to send the reply.\n\nYour router rewrites the Source IP on the packet to its own Public WAN IP (49.205.10.20) and makes a note in its RAM table: \"Ping #1 came from 192.168.1.5.\"\n\n8. Reframing for the ISP (Hop 2):\n\nThe router looks up the ISP router's IP (49.205.10.1) in its Outside ARP Cache and gets MAC DD:DD.\n\nIt wraps the packet in a brand-new Frame:\n\n[ Dest MAC: DD:DD ] [ Source MAC: CC:CC ] [ Source IP: 49.205.10.20 | Dest IP: 8.8.8.8 ]\n\nThe router's fibre NIC converts this into pulses of light down the fibre optic cable.",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "yqx6ItmQCBcZQzqzOF6RP",
+      "type": "rectangle",
+      "x": 10220.881652358778,
+      "y": -3181.534842531706,
+      "width": 1996.6667938232422,
+      "height": 920,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "9Vj8gs05MIkvVDhex_BEU"
+      ],
+      "frameId": null,
+      "index": "b0H",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1508485250,
+      "version": 1520,
+      "versionNonce": 494266050,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "LK7y3XkRlEO9EPSW2wdb5"
+        },
+        {
+          "id": "_TaB1soqlfkf9qsUCV0Me",
+          "type": "arrow"
+        },
+        {
+          "id": "zcIdMY8ESwbBKfVQcWq04",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1792756752707,
+      "created": 1792751970013,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "LK7y3XkRlEO9EPSW2wdb5",
+      "type": "text",
+      "x": 10228.799643996961,
+      "y": -2931.534842531706,
+      "width": 1980.830810546875,
+      "height": 420,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "9Vj8gs05MIkvVDhex_BEU"
+      ],
+      "frameId": null,
+      "index": "b0I",
+      "roundness": null,
+      "seed": 403083358,
+      "version": 529,
+      "versionNonce": 1095745154,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792756752707,
+      "created": 1792752040410,
+      "link": null,
+      "locked": false,
+      "text": "Phase 3: Hops 2 to 6 — The Internet Backbone\n\n9. The Relay Race:\n\nAt Hop 2 (ISP Router), the NIC sees Dest MAC: DD:DD, strips the frame, looks at Dest IP: 8.8.8.8 in its routing table, checks its ARP cache\nfor Hop 3's MAC, wraps it in a new frame, and fires it to Hop 3.\n\n\nThis exact Strip Frame $\\rightarrow$ Check Dest IP $\\rightarrow$ Put New MAC Frame cycle repeats at Hop 3, 4, 5, and 6.\n\nNotice: The IP Packet (Source: 49.205.10.20, Dest: 8.8.8.8) stays untouched the entire way; only the outer MAC Frame changes at every single\nrouter.",
+      "fontSize": 28,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "yqx6ItmQCBcZQzqzOF6RP",
+      "originalText": "Phase 3: Hops 2 to 6 — The Internet Backbone\n\n9. The Relay Race:\n\nAt Hop 2 (ISP Router), the NIC sees Dest MAC: DD:DD, strips the frame, looks at Dest IP: 8.8.8.8 in its routing table, checks its ARP cache for Hop 3's MAC, wraps it in a new frame, and fires it to Hop 3.\n\n\nThis exact Strip Frame $\\rightarrow$ Check Dest IP $\\rightarrow$ Put New MAC Frame cycle repeats at Hop 3, 4, 5, and 6.\n\nNotice: The IP Packet (Source: 49.205.10.20, Dest: 8.8.8.8) stays untouched the entire way; only the outer MAC Frame changes at every single router.",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "T42y4i3ghmEAAvH8CpSB1",
+      "type": "rectangle",
+      "x": 10262.548217300184,
+      "y": -2002.3681250024092,
+      "width": 1996.6667938232422,
+      "height": 1025,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "9Vj8gs05MIkvVDhex_BEU"
+      ],
+      "frameId": null,
+      "index": "b0J",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 793723970,
+      "version": 1257,
+      "versionNonce": 1134075458,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "4GzeyPYniV_YSiFwQHvcY"
+        },
+        {
+          "id": "zcIdMY8ESwbBKfVQcWq04",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1792756752707,
+      "created": 1792752101960,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "4GzeyPYniV_YSiFwQHvcY",
+      "type": "text",
+      "x": 10270.03224897743,
+      "y": -1997.3681250024092,
+      "width": 1981.69873046875,
+      "height": 1015,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "9Vj8gs05MIkvVDhex_BEU"
+      ],
+      "frameId": null,
+      "index": "b0K",
+      "roundness": null,
+      "seed": 408392450,
+      "version": 515,
+      "versionNonce": 288327170,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792756752707,
+      "created": 1792752117928,
+      "link": null,
+      "locked": false,
+      "text": "Phase 4: Hop 7 — Google's Server & The Return Trip\n10. Arrival at Google:\n\nHop 6 puts Google's MAC (GG:GG) on the frame. Google's NIC accepts it, strips the frame, and hands the IP Packet to Google's OS.\n\n11. Creating the Reply:\n\nGoogle's OS sees the ICMP Ping Request, flips the addresses, and builds an ICMP Echo Reply packet:\n\nSource IP: 8.8.8.8 | Dest IP: 49.205.10.20 (Your router's public IP).\n\n12. Travelling Back (Hops 7 to 1):\n\nThe reply packet travels back through the routers (using each router's routing table and ARP cache hop-by-hop) until it hits your home router's\nfibre port.\n\n13. Reverse NAT & Final Delivery to Your PC:\n\nYour home router strips the ISP frame and sees the reply for Ping #1.\n\nIt checks its NAT table in RAM, remembers Ping #1 belonged to 192.168.1.5, and rewrites the packet's Dest IP back to 192.168.1.5.\n\nIt checks its Inside ARP Cache for 192.168.1.5, finds your PC's MAC (AA:AA), wraps the packet in a Wi-Fi frame (Dest MAC: AA:AA), and beams\nit over Wi-Fi.\n\n14. Screen Output:\n\nYour PC's NIC catches the frame, strips it, hands the IP packet to Windows via DMA/interrupt, and your terminal prints: Reply from 8.8.8.8:\ntime=8ms.",
+      "fontSize": 28,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "T42y4i3ghmEAAvH8CpSB1",
+      "originalText": "Phase 4: Hop 7 — Google's Server & The Return Trip\n10. Arrival at Google:\n\nHop 6 puts Google's MAC (GG:GG) on the frame. Google's NIC accepts it, strips the frame, and hands the IP Packet to Google's OS.\n\n11. Creating the Reply:\n\nGoogle's OS sees the ICMP Ping Request, flips the addresses, and builds an ICMP Echo Reply packet:\n\nSource IP: 8.8.8.8 | Dest IP: 49.205.10.20 (Your router's public IP).\n\n12. Travelling Back (Hops 7 to 1):\n\nThe reply packet travels back through the routers (using each router's routing table and ARP cache hop-by-hop) until it hits your home router's fibre port.\n\n13. Reverse NAT & Final Delivery to Your PC:\n\nYour home router strips the ISP frame and sees the reply for Ping #1.\n\nIt checks its NAT table in RAM, remembers Ping #1 belonged to 192.168.1.5, and rewrites the packet's Dest IP back to 192.168.1.5.\n\nIt checks its Inside ARP Cache for 192.168.1.5, finds your PC's MAC (AA:AA), wraps the packet in a Wi-Fi frame (Dest MAC: AA:AA), and beams it over Wi-Fi.\n\n14. Screen Output:\n\nYour PC's NIC catches the frame, strips it, hands the IP packet to Windows via DMA/interrupt, and your terminal prints: Reply from 8.8.8.8: time=8ms.",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "dj6AqGgCBWOtKBr7EWjn3",
+      "type": "arrow",
+      "x": 11173.003850401006,
+      "y": -5570.645936688607,
+      "width": 4.957314007432103,
+      "height": 115.99997456868505,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "9Vj8gs05MIkvVDhex_BEU"
+      ],
+      "frameId": null,
+      "index": "b0L",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 2087545154,
+      "version": 538,
+      "versionNonce": 588477890,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792756752707,
+      "created": 1792752133307,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -4.957314007432103,
+          115.99997456868505
+        ]
+      ],
+      "startBinding": {
+        "elementId": "Cs0ADdUu_U2zCsPKCETLN",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          1
+        ]
+      },
+      "endBinding": {
+        "elementId": "m8ksAvB5jbyz-9dADzq09",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          0
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "XVBUzf9XYkqdJV7XhrQnf",
+      "type": "arrow",
+      "x": 11169.028579235805,
+      "y": -4520.645962119923,
+      "width": 35.77166307638909,
+      "height": 195.44440205891942,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "9Vj8gs05MIkvVDhex_BEU"
+      ],
+      "frameId": null,
+      "index": "b0M",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 253393410,
+      "version": 590,
+      "versionNonce": 2053336450,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792756752707,
+      "created": 1792752140116,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          35.77166307638909,
+          195.44440205891942
+        ]
+      ],
+      "startBinding": {
+        "elementId": "m8ksAvB5jbyz-9dADzq09",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          1
+        ]
+      },
+      "endBinding": {
+        "elementId": "zkVwDeF_AwSCZrxifT40b",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          0
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "_TaB1soqlfkf9qsUCV0Me",
+      "type": "arrow",
+      "x": 11206.51220096547,
+      "y": -3391.201560061003,
+      "width": 12.47174749791894,
+      "height": 202.66671752929778,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "9Vj8gs05MIkvVDhex_BEU"
+      ],
+      "frameId": null,
+      "index": "b0N",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 456136130,
+      "version": 628,
+      "versionNonce": 475950402,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792756752707,
+      "created": 1792752147961,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          12.47174749791894,
+          202.66671752929778
+        ]
+      ],
+      "startBinding": {
+        "elementId": "zkVwDeF_AwSCZrxifT40b",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          1.0000000000000004
+        ]
+      },
+      "endBinding": {
+        "elementId": "yqx6ItmQCBcZQzqzOF6RP",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          0
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "zcIdMY8ESwbBKfVQcWq04",
+      "type": "arrow",
+      "x": 11220.540114910613,
+      "y": -2254.534842531705,
+      "width": 39.41576701974112,
+      "height": 245.16671752929688,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "9Vj8gs05MIkvVDhex_BEU"
+      ],
+      "frameId": null,
+      "index": "b0O",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1041256734,
+      "version": 571,
+      "versionNonce": 241399042,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792756752707,
+      "created": 1792752156611,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          39.41576701974112,
+          245.16671752929688
+        ]
+      ],
+      "startBinding": {
+        "elementId": "yqx6ItmQCBcZQzqzOF6RP",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          1
+        ]
+      },
+      "endBinding": {
+        "elementId": "T42y4i3ghmEAAvH8CpSB1",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          0
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "l9EYr6pf_HIakxnAShI5W",
+      "type": "rectangle",
+      "x": 9114.21520185829,
+      "y": -6492.368020098234,
+      "width": 4026.6665649414062,
+      "height": 5919.999847412109,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "9Vj8gs05MIkvVDhex_BEU"
+      ],
+      "frameId": null,
+      "index": "b0P",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 523255262,
+      "version": 879,
+      "versionNonce": 1374782658,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "qEabqsrlJ6tdzh8pEk0KL"
+        }
+      ],
+      "updated": 1792756752707,
+      "created": 1792752178660,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "qEabqsrlJ6tdzh8pEk0KL",
+      "type": "text",
+      "x": 10868.276572707899,
+      "y": -6487.368020098234,
+      "width": 518.5438232421875,
+      "height": 90,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "9Vj8gs05MIkvVDhex_BEU"
+      ],
+      "frameId": null,
+      "index": "b0Q",
+      "roundness": null,
+      "seed": 1387354334,
+      "version": 617,
+      "versionNonce": 1621597314,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792756752707,
+      "created": 1792752200800,
+      "link": null,
+      "locked": false,
+      "text": "EXample of a ping to google -\n",
+      "fontSize": 36,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": "l9EYr6pf_HIakxnAShI5W",
+      "originalText": "EXample of a ping to google -\n",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "44LVjdOi1v4TCZv7SJMsN",
+      "type": "rectangle",
+      "x": 4125.991894566623,
+      "y": -1682.3677861301358,
+      "width": 3820,
+      "height": 2546.6668701171875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0S",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 17013214,
+      "version": 100,
+      "versionNonce": 736413890,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "sDGVlrWc03U74Fo8MAJW_"
+        },
+        {
+          "id": "Mrvk8ApR1O-exawvqrdmM",
+          "type": "arrow"
+        },
+        {
+          "id": "w1j8YhWrY2I2TtuLIumqA",
+          "type": "arrow"
+        },
+        {
+          "id": "L5Nd7qXSAlDOuGFIV34eT",
+          "type": "arrow"
+        },
+        {
+          "id": "SEB6f2i3xVtQCCHTa9JWY",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1792754431021,
+      "created": 1792752409450,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "sDGVlrWc03U74Fo8MAJW_",
+      "type": "text",
+      "x": 4163.687207066623,
+      "y": -1677.3677861301358,
+      "width": 3744.609375,
+      "height": 1980,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0T",
+      "roundness": null,
+      "seed": 1599088094,
+      "version": 271,
+      "versionNonce": 1279292994,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792754155976,
+      "created": 1792752420815,
+      "link": null,
+      "locked": false,
+      "text": "Communication between OS and NIC\n\n\nWhen packet needs sending - \n\nOS creates a payload of what type of message you want to send and wraps it in a IP packet, \n\nCommunication between the Operating System (OS) and the Network Interface Card (NIC) happens through a finely tuned choreography of shared memory, hardware registers, ring buffers, and interrupts.\n\nBecause the CPU is millions of times faster than network hardware, they cannot talk back and forth line-by-line. Instead, they use a shared workspace in your PC's RAM.\n\n1. The Shared Workspace: Ring Buffers (Descriptor Rings)\nWhen your network card driver initializes during OS bootup, it sets up two circular queues in your PC's main RAM, shared directly with the NIC:\n\nThe RX (Receive) Ring: A parking lot of empty buffer slots waiting for incoming packets from the network.\n\nThe TX (Transmit) Ring: A parking lot of filled buffer slots containing outgoing frames waiting to be sent out.\n\nEach slot in these rings is a Descriptor—a tiny metadata struct containing the memory address of the packet in RAM and its length.\n\n2. How the OS Sends Data (The TX Path)\nWhen your OS wants to send a frame:\n\nWriting to RAM: The network stack builds the complete Ethernet frame and writes it into a buffer in main RAM.\n\nUpdating the Ring: The OS writes a pointer to that RAM buffer into the next available slot in the TX Ring.\n\nRinging the Doorbell: The OS writes a value to a physical control register on the NIC chip (Memory-Mapped I/O). This is literally telling the NIC: \"Hey, I added 2 new packets to the TX ring, go get them.\"\n\nDMA (Direct Memory Access): The NIC's onboard controller takes over. It uses DMA to read the pointers from the TX ring, fetches the frame directly out of system RAM over the motherboard bus, converts the\nbits, and beams them out. The CPU is already free doing other tasks.\n\n3. How the OS Receives Data (The RX Path)\nWhen data arrives from the network:\n\nPre-allocated Buffers: The OS keeps the RX ring constantly populated with empty RAM buffers so the NIC always has somewhere to put incoming traffic.\n\nDirect Drop via DMA: The NIC catches incoming bits, assembles the frame, and uses DMA to copy it directly into the pre-allocated RAM buffer specified by the next open slot in the RX Ring.\n\nThe Interrupt (Waking the OS): Once the frame lands safely in RAM, the NIC fires a Hardware Interrupt down the motherboard bus to alert the CPU.\n\nDriver Processing: The OS driver stops what it is doing, reads the frame out of the RX ring, updates the ring pointers, and passes the packet up to the OS network stack (TCP/IP).\n\n(Modern high-speed NICs often use Polling / NAPI instead of firing an interrupt for every single packet to prevent CPU overload during heavy traffic spikes).",
+      "fontSize": 36,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": "44LVjdOi1v4TCZv7SJMsN",
+      "originalText": "Communication between OS and NIC\n\n\nWhen packet needs sending - \n\nOS creates a payload of what type of message you want to send and wraps it in a IP packet, \n\nCommunication between the Operating System (OS) and the Network Interface Card (NIC) happens through a finely tuned choreography of shared memory, hardware registers, ring buffers, and interrupts.\n\nBecause the CPU is millions of times faster than network hardware, they cannot talk back and forth line-by-line. Instead, they use a shared workspace in your PC's RAM.\n\n1. The Shared Workspace: Ring Buffers (Descriptor Rings)\nWhen your network card driver initializes during OS bootup, it sets up two circular queues in your PC's main RAM, shared directly with the NIC:\n\nThe RX (Receive) Ring: A parking lot of empty buffer slots waiting for incoming packets from the network.\n\nThe TX (Transmit) Ring: A parking lot of filled buffer slots containing outgoing frames waiting to be sent out.\n\nEach slot in these rings is a Descriptor—a tiny metadata struct containing the memory address of the packet in RAM and its length.\n\n2. How the OS Sends Data (The TX Path)\nWhen your OS wants to send a frame:\n\nWriting to RAM: The network stack builds the complete Ethernet frame and writes it into a buffer in main RAM.\n\nUpdating the Ring: The OS writes a pointer to that RAM buffer into the next available slot in the TX Ring.\n\nRinging the Doorbell: The OS writes a value to a physical control register on the NIC chip (Memory-Mapped I/O). This is literally telling the NIC: \"Hey, I added 2 new packets to the TX ring, go get them.\"\n\nDMA (Direct Memory Access): The NIC's onboard controller takes over. It uses DMA to read the pointers from the TX ring, fetches the frame directly out of system RAM over the motherboard bus, converts the bits, and beams them out. The CPU is already free doing other tasks.\n\n3. How the OS Receives Data (The RX Path)\nWhen data arrives from the network:\n\nPre-allocated Buffers: The OS keeps the RX ring constantly populated with empty RAM buffers so the NIC always has somewhere to put incoming traffic.\n\nDirect Drop via DMA: The NIC catches incoming bits, assembles the frame, and uses DMA to copy it directly into the pre-allocated RAM buffer specified by the next open slot in the RX Ring.\n\nThe Interrupt (Waking the OS): Once the frame lands safely in RAM, the NIC fires a Hardware Interrupt down the motherboard bus to alert the CPU.\n\nDriver Processing: The OS driver stops what it is doing, reads the frame out of the RX ring, updates the ring pointers, and passes the packet up to the OS network stack (TCP/IP).\n\n(Modern high-speed NICs often use Polling / NAPI instead of firing an interrupt for every single packet to prevent CPU overload during heavy traffic spikes).",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "Mrvk8ApR1O-exawvqrdmM",
+      "type": "arrow",
+      "x": 6038.182637014696,
+      "y": 870.2990839870516,
+      "width": 1007.2576670593335,
+      "height": 3341.2971585830855,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0X",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1912735426,
+      "version": 221,
+      "versionNonce": 1729912322,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "4EgJE8fcqnsZly7wtndel"
+        }
+      ],
+      "updated": 1792754155976,
+      "created": 1792753878145,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1007.2576670593335,
+          3341.2971585830855
+        ]
+      ],
+      "startBinding": {
+        "elementId": "44LVjdOi1v4TCZv7SJMsN",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          1
+        ]
+      },
+      "endBinding": {
+        "elementId": "pS13p44bG5XMbtcXc59sg",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          0
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "4EgJE8fcqnsZly7wtndel",
+      "type": "text",
+      "x": 6265.832405602957,
+      "y": 2298.4475615533343,
+      "width": 545.2918701171875,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0Y",
+      "roundness": null,
+      "seed": 1487660738,
+      "version": 44,
+      "versionNonce": 1561103298,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792753906476,
+      "created": 1792753886235,
+      "link": null,
+      "locked": false,
+      "text": "Communications Inside a device",
+      "fontSize": 36,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "Mrvk8ApR1O-exawvqrdmM",
+      "originalText": "Communications Inside a device",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": 0.5
+    },
+    {
+      "id": "w1j8YhWrY2I2TtuLIumqA",
+      "type": "arrow",
+      "x": 6040.278719794898,
+      "y": 870.2990839870517,
+      "width": 2172.0156939746557,
+      "height": 3337.433406618784,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0b",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1806528578,
+      "version": 549,
+      "versionNonce": 1436896706,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "hJItjgRX8gECMZickrKp3"
+        }
+      ],
+      "updated": 1792754155976,
+      "created": 1792753918457,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          2172.0156939746557,
+          3337.433406618784
+        ]
+      ],
+      "startBinding": {
+        "elementId": "44LVjdOi1v4TCZv7SJMsN",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          1
+        ]
+      },
+      "endBinding": {
+        "elementId": "a9EAApTUMYq8rf5E5EDDR",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          0
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "hJItjgRX8gECMZickrKp3",
+      "type": "text",
+      "x": 7388.757812725184,
+      "y": 1737.0138269165934,
+      "width": 545.2918701171875,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0c",
+      "roundness": null,
+      "seed": 1121589250,
+      "version": 48,
+      "versionNonce": 929673630,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1792753918458,
+      "created": 1792753918457,
+      "link": null,
+      "locked": false,
+      "text": "Communications Inside a device",
+      "fontSize": 36,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "w1j8YhWrY2I2TtuLIumqA",
+      "originalText": "Communications Inside a device",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": 0.5
+    },
+    {
+      "id": "stT3i--zjrz8WMhfGyZKD",
+      "type": "arrow",
+      "x": 1373.7375892436576,
+      "y": -3136.5888656385996,
+      "width": 540.842498212002,
+      "height": 1399.7691145518324,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0d",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1736174338,
+      "version": 1001,
+      "versionNonce": 1529393794,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "4JhvFqakswAFYuJFC8dYC"
+        }
+      ],
+      "updated": 1792754501787,
+      "created": 1792754081813,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -540.842498212002,
+          1399.7691145518324
+        ]
+      ],
+      "startBinding": {
+        "elementId": "EeUWoDKyLoPpbGNrpg8qf",
+        "mode": "inside",
+        "fixedPoint": [
+          0.4991118532362329,
+          0.9913226571102299
+        ]
+      },
+      "endBinding": {
+        "elementId": "6CtVMX1_HGjpg1Kn6nTf9",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          0
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "4JhvFqakswAFYuJFC8dYC",
+      "type": "text",
+      "x": 942.3783976327738,
+      "y": -2481.7043083626836,
+      "width": 321.8758850097656,
+      "height": 90,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0e",
+      "roundness": null,
+      "seed": 1324762078,
+      "version": 52,
+      "versionNonce": 1562020318,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792754496409,
+      "created": 1792754100612,
+      "link": null,
+      "locked": false,
+      "text": "Main device in this\nlayer",
+      "fontSize": 36,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "stT3i--zjrz8WMhfGyZKD",
+      "originalText": "Main device in this layer",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": 0.5
+    },
+    {
+      "id": "L5Nd7qXSAlDOuGFIV34eT",
+      "type": "arrow",
+      "x": 1382.5983224815973,
+      "y": -3132.980996024629,
+      "width": 4634.526710126474,
+      "height": 1444.6132098944931,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0f",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 2077240990,
+      "version": 2374,
+      "versionNonce": 2119168414,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "KuZX9rpSVYVA4UixzCc1M"
+        }
+      ],
+      "updated": 1792754522092,
+      "created": 1792754121077,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          4634.526710126474,
+          1444.6132098944931
+        ]
+      ],
+      "startBinding": {
+        "elementId": "EeUWoDKyLoPpbGNrpg8qf",
+        "mode": "inside",
+        "fixedPoint": [
+          0.5074719319140064,
+          0.9966323418742328
+        ]
+      },
+      "endBinding": {
+        "elementId": "44LVjdOi1v4TCZv7SJMsN",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          0
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "KuZX9rpSVYVA4UixzCc1M",
+      "type": "text",
+      "x": 3503.373762505772,
+      "y": -2433.1743910773826,
+      "width": 392.975830078125,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0g",
+      "roundness": null,
+      "seed": 1699523294,
+      "version": 34,
+      "versionNonce": 799639490,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1792754520563,
+      "created": 1792754121077,
+      "link": null,
+      "locked": false,
+      "text": "Used also in this layer",
+      "fontSize": 36,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "L5Nd7qXSAlDOuGFIV34eT",
+      "originalText": "Used also in this layer",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": 0.5
+    },
+    {
+      "id": "PgE28dyZF_TRL1JDQ8VGX",
+      "type": "rectangle",
+      "x": 3565.562161125634,
+      "y": -5258.2553644585905,
+      "width": 2691.666920979818,
+      "height": 1793.8888804117837,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0h",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1775214302,
+      "version": 625,
+      "versionNonce": 945653442,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "mUCpFiIU2murzHuyGfyFd"
+        },
+        {
+          "id": "SEB6f2i3xVtQCCHTa9JWY",
+          "type": "arrow"
+        },
+        {
+          "id": "a0b2v3MSVp41U9eawwwqT",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1792755171540,
+      "created": 1792754200563,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "mUCpFiIU2murzHuyGfyFd",
+      "type": "text",
+      "x": 4846.215674716129,
+      "y": -5253.2553644585905,
+      "width": 130.35989379882812,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0hV",
+      "roundness": null,
+      "seed": 1839511262,
+      "version": 900,
+      "versionNonce": 1581473410,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792755171540,
+      "created": 1792754207127,
+      "link": null,
+      "locked": false,
+      "text": "Local Devices",
+      "fontSize": 20,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": "PgE28dyZF_TRL1JDQ8VGX",
+      "originalText": "Local Devices",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "TgnVN4cEDxlOLqt09yw7D",
+      "type": "text",
+      "x": 4605.549166265142,
+      "y": -2686.812176563313,
+      "width": 769.8598022460938,
+      "height": 90,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0l",
+      "roundness": null,
+      "seed": 806513730,
+      "version": 139,
+      "versionNonce": 1500589186,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1792755329074,
+      "created": 1792754424749,
+      "link": null,
+      "locked": false,
+      "text": "This OS and NIC communication takes place\ninside all devices",
+      "fontSize": 36,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "SEB6f2i3xVtQCCHTa9JWY",
+      "originalText": "This OS and NIC communication takes place inside all devices",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": 0.5
+    },
+    {
+      "id": "8PfbrygWtNr1UIsWQbyKL",
+      "type": "text",
+      "x": 4237.8336015834,
+      "y": -2926.5504714474887,
+      "width": 392.975830078125,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0p",
+      "roundness": null,
+      "seed": 158958594,
+      "version": 39,
+      "versionNonce": 1777624258,
+      "isDeleted": true,
+      "boundElements": [],
+      "updated": 1792755271939,
+      "created": 1792754528378,
+      "link": null,
+      "locked": false,
+      "text": "Used also in this layer",
+      "fontSize": 36,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "a0b2v3MSVp41U9eawwwqT",
+      "originalText": "Used also in this layer",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": 0.5
+    },
+    {
+      "id": "iE5m_7G6H-slKYlvnWkel",
+      "type": "arrow",
+      "x": 389.21985037065315,
+      "y": 933.9773132581824,
+      "width": 5738.512467096222,
+      "height": 3599.8946096906484,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0q",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 202909442,
+      "version": 905,
+      "versionNonce": 1638662302,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "pHNDcdqNHo6pMgTtGrKub"
+        }
+      ],
+      "updated": 1792755370951,
+      "created": 1792754583171,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          5738.512467096222,
+          3599.8946096906484
+        ]
+      ],
+      "startBinding": {
+        "elementId": "6CtVMX1_HGjpg1Kn6nTf9",
+        "mode": "inside",
+        "fixedPoint": [
+          0.4150909876742407,
+          0.9961085448662099
+        ]
+      },
+      "endBinding": {
+        "elementId": "hnTwnW-Y3BDP4qVOqW_17",
+        "mode": "orbit",
+        "fixedPoint": [
+          0,
+          0.5001
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "pHNDcdqNHo6pMgTtGrKub",
+      "type": "text",
+      "x": 3144.054178401186,
+      "y": 2711.538683238817,
+      "width": 668.8438110351562,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0r",
+      "roundness": null,
+      "seed": 1514141378,
+      "version": 70,
+      "versionNonce": 47990430,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1792754603105,
+      "created": 1792754583171,
+      "link": null,
+      "locked": false,
+      "text": "Communications Inside a local network",
+      "fontSize": 36,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "iE5m_7G6H-slKYlvnWkel",
+      "originalText": "Communications Inside a local network",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": 0.5
+    },
+    {
+      "id": "fbuFA4MlWHbmnvukyYBQ0",
+      "type": "rectangle",
+      "x": 12352.40463229379,
+      "y": 4272.632351198959,
+      "width": 886.66748046875,
+      "height": 586.6668701171875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0s",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 83592706,
+      "version": 486,
+      "versionNonce": 567276482,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "6xADxTWNnxdziEVXdGsSj"
+        },
+        {
+          "id": "sHc5nrkt5jDASQ3jgx0T1",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1792756521785,
+      "created": 1792754675077,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "6xADxTWNnxdziEVXdGsSj",
+      "type": "text",
+      "x": 12364.370513641446,
+      "y": 4355.965786257553,
+      "width": 862.7357177734375,
+      "height": 420,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0sV",
+      "roundness": null,
+      "seed": 2081352350,
+      "version": 788,
+      "versionNonce": 685779842,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792756521785,
+      "created": 1792754685735,
+      "link": null,
+      "locked": false,
+      "text": "Router\n\nAn ISP (Internet Service Provider) router—often called an\nedge router or Provider Edge (PE) router—is an industrial-\ngrade, heavy-duty network appliance (made by companies like\nCisco, Juniper, or Nokia) designed to handle thousands of home\nnetworks simultaneously.\n\nThis router also does Carrier Grade NAT, similar to NAT by a\nhome router but at a much larger scale. It would remember the\nrouter a frame came from and replace the home router's\naddress with it's own edge router IP address",
+      "fontSize": 28,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "fbuFA4MlWHbmnvukyYBQ0",
+      "originalText": "Router\n\nAn ISP (Internet Service Provider) router—often called an edge router or Provider Edge (PE) router—is an industrial-grade, heavy-duty network appliance (made by companies like Cisco, Juniper, or Nokia) designed to handle thousands of home networks simultaneously.\n\nThis router also does Carrier Grade NAT, similar to NAT by a home router but at a much larger scale. It would remember the router a frame came from and replace the home router's address with it's own edge router IP address",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "J8rVNBJ5Fh9LM40DtS-Fz",
+      "type": "rectangle",
+      "x": 5102.832497458407,
+      "y": -4628.796319775045,
+      "width": 1080.0002034505214,
+      "height": 646.6666666666665,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0u",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 457949762,
+      "version": 509,
+      "versionNonce": 1023558594,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "52h914_yVH4dR_0dE_w_s"
+        }
+      ],
+      "updated": 1792755176162,
+      "created": 1792754927623,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "52h914_yVH4dR_0dE_w_s",
+      "type": "text",
+      "x": 5110.272967836011,
+      "y": -4580.462986441711,
+      "width": 1065.1192626953125,
+      "height": 550,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0v",
+      "roundness": null,
+      "seed": 1323182594,
+      "version": 820,
+      "versionNonce": 1229486978,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1792755176162,
+      "created": 1792754927623,
+      "link": null,
+      "locked": false,
+      "text": "Router\n\n1. IP Routing & Forwarding:\nThe OS looks at the Destination IP inside the packet, checks its routing table in RAM, and decides: \"Does\nthis packet need to go out the WAN fibre port to the internet, or does it stay inside the local LAN to\nanother device in the house?\"\n\n2. Network Address Translation (NAT):\nAs we covered, the software rewrites private local IP addresses into your single public WAN IP so your home\ndevices can share one internet connection.\n\n3. Firewall & Stateful Packet Inspection:\nThe OS maintains a tracking table of outbound connections. If an unsolicited packet arrives from the public\ninternet without a matching entry in that table, the OS software drops it to protect your home network.\n\n4. DHCP (Dynamic Host Configuration Protocol):\nThe software runs a background service that automatically hands out private IP addresses (192.168.1.x)\nwhenever a new phone or laptop connects to your Wi-Fi.\n\n5. DNS Forwarding / Caching:\nMost home router OS software acts as a local DNS proxy, caching domain lookups for your devices to speed\nup web browsing across the whole house.",
+      "fontSize": 20,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "J8rVNBJ5Fh9LM40DtS-Fz",
+      "originalText": "Router\n\n1. IP Routing & Forwarding:\nThe OS looks at the Destination IP inside the packet, checks its routing table in RAM, and decides: \"Does this packet need to go out the WAN fibre port to the internet, or does it stay inside the local LAN to another device in the house?\"\n\n2. Network Address Translation (NAT):\nAs we covered, the software rewrites private local IP addresses into your single public WAN IP so your home devices can share one internet connection.\n\n3. Firewall & Stateful Packet Inspection:\nThe OS maintains a tracking table of outbound connections. If an unsolicited packet arrives from the public internet without a matching entry in that table, the OS software drops it to protect your home network.\n\n4. DHCP (Dynamic Host Configuration Protocol):\nThe software runs a background service that automatically hands out private IP addresses (192.168.1.x) whenever a new phone or laptop connects to your Wi-Fi.\n\n5. DNS Forwarding / Caching:\nMost home router OS software acts as a local DNS proxy, caching domain lookups for your devices to speed up web browsing across the whole house.",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "j2AT5aZIMujV6cCfj16Fw",
+      "type": "rectangle",
+      "x": 3699.816786718544,
+      "y": -4986.256566996491,
+      "width": 1095.555419921875,
+      "height": 1340,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0w",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1759198018,
+      "version": 275,
+      "versionNonce": 894336130,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "0JOCXpZIXSdf19daZGKt8"
+        },
+        {
+          "id": "SEB6f2i3xVtQCCHTa9JWY",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1792755271939,
+      "created": 1792755114188,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "a0b2v3MSVp41U9eawwwqT",
+      "type": "arrow",
+      "x": 4237.000089935,
+      "y": -3640.2565669964906,
+      "width": 3395.7193153640837,
+      "height": 1903.4368159097235,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0w8",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 214588482,
+      "version": 3278,
+      "versionNonce": 696434782,
+      "isDeleted": true,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "8PfbrygWtNr1UIsWQbyKL"
+        }
+      ],
+      "updated": 1792755271939,
+      "created": 1792754528377,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -3395.7193153640837,
+          1903.4368159097235
+        ]
+      ],
+      "startBinding": {
+        "elementId": "j2AT5aZIMujV6cCfj16Fw",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          1
+        ]
+      },
+      "endBinding": {
+        "elementId": "6CtVMX1_HGjpg1Kn6nTf9",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          0
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "SEB6f2i3xVtQCCHTa9JWY",
+      "type": "arrow",
+      "x": 4915.451690422353,
+      "y": -3458.366484046807,
+      "width": 1117.1353020295583,
+      "height": 1769.998697916671,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0wG",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1013664898,
+      "version": 3008,
+      "versionNonce": 198908738,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "TgnVN4cEDxlOLqt09yw7D"
+        }
+      ],
+      "updated": 1792755329395,
+      "created": 1792754424749,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1117.1353020295583,
+          1769.998697916671
+        ]
+      ],
+      "startBinding": {
+        "elementId": "PgE28dyZF_TRL1JDQ8VGX",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          1
+        ]
+      },
+      "endBinding": {
+        "elementId": "44LVjdOi1v4TCZv7SJMsN",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          0
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "0JOCXpZIXSdf19daZGKt8",
+      "type": "text",
+      "x": 3705.7526998044814,
+      "y": -4981.256566996491,
+      "width": 1083.68359375,
+      "height": 1330,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0wV",
+      "roundness": null,
+      "seed": 2062669790,
+      "version": 290,
+      "versionNonce": 745658014,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792755203108,
+      "created": 1792755124793,
+      "link": null,
+      "locked": false,
+      "text": "Client device - PC, phone etc\n\ncore networking tasks include:\n\n1. Application Interface (Sockets API):\nProvides the programming interface (like TCP/UDP sockets) so apps like your\nweb browser or ping can hand raw data streams to the OS and ask them to be\nsent over the network.\n\n2. Transport Layer Management (TCP/UDP):\nManages connections by executing the 3-way handshake, tracking sequence\nnumbers, enforcing flow control, handling port assignments, and retransmitting\nlost packets if data gets dropped.\n\n3. Network Layer & IP Construction:\nAssembles the IP packet, sets the source and destination IP addresses,\nmanages TTL (Time to Live) decrementing, and checks the OS routing table to\ndecide if a packet goes to the local network or the default gateway.\n\n4. Address Resolution (ARP / NDP):\nRuns background ARP (IPv4) or NDP (IPv6) protocols to query the local\nnetwork, map local IP addresses to physical MAC addresses, and maintain the\nlocal ARP cache in system RAM.\n\n5. Data Link Framing:\nExplicitly builds the complete Ethernet frame by writing the Destination MAC,\nSource MAC, EtherType label, payload, and FCS checksum directly into system\nRAM.\n\n6. Driver & Ring Buffer Coordination:\nInteracts with the NIC driver to place outgoing frames into the TX ring\nbuffer, ring the hardware doorbell, and process incoming interrupts or RX ring\nbuffers from the NIC via DMA.\n\n7. Host Firewall & Packet Filtering:\nInspects incoming and outgoing packets at the software level (e.g., Windows\nDefender Firewall or Linux iptables) to block unauthorized connection attempts\nbefore applications ever see them.",
+      "fontSize": 28,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "j2AT5aZIMujV6cCfj16Fw",
+      "originalText": "Client device - PC, phone etc\n\ncore networking tasks include:\n\n1. Application Interface (Sockets API):\nProvides the programming interface (like TCP/UDP sockets) so apps like your web browser or ping can hand raw data streams to the OS and ask them to be sent over the network.\n\n2. Transport Layer Management (TCP/UDP):\nManages connections by executing the 3-way handshake, tracking sequence numbers, enforcing flow control, handling port assignments, and retransmitting lost packets if data gets dropped.\n\n3. Network Layer & IP Construction:\nAssembles the IP packet, sets the source and destination IP addresses, manages TTL (Time to Live) decrementing, and checks the OS routing table to decide if a packet goes to the local network or the default gateway.\n\n4. Address Resolution (ARP / NDP):\nRuns background ARP (IPv4) or NDP (IPv6) protocols to query the local network, map local IP addresses to physical MAC addresses, and maintain the local ARP cache in system RAM.\n\n5. Data Link Framing:\nExplicitly builds the complete Ethernet frame by writing the Destination MAC, Source MAC, EtherType label, payload, and FCS checksum directly into system RAM.\n\n6. Driver & Ring Buffer Coordination:\nInteracts with the NIC driver to place outgoing frames into the TX ring buffer, ring the hardware doorbell, and process incoming interrupts or RX ring buffers from the NIC via DMA.\n\n7. Host Firewall & Packet Filtering:\nInspects incoming and outgoing packets at the software level (e.g., Windows Defender Firewall or Linux iptables) to block unauthorized connection attempts before applications ever see them.",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "vsGjBShkXXySXDNIQGpUC",
+      "type": "arrow",
+      "x": 3921.785606582501,
+      "y": -3991.6310420061263,
+      "width": 1777.7404871203207,
+      "height": 1951.8887808663549,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0x",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1618377026,
+      "version": 2940,
+      "versionNonce": 1942489374,
+      "isDeleted": true,
+      "boundElements": [],
+      "updated": 1792755318160,
+      "created": 1792755316991,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1777.7404871203207,
+          1951.8887808663549
+        ]
+      ],
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "5vybB5tIXm6fo7tsFSCs4",
+      "type": "text",
+      "x": 4274.1660430137545,
+      "y": -3038.1866515729484,
+      "width": 1072.9796142578125,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0y",
+      "roundness": null,
+      "seed": 731513090,
+      "version": 139,
+      "versionNonce": 326049730,
+      "isDeleted": true,
+      "boundElements": [],
+      "updated": 1792755318160,
+      "created": 1792755316991,
+      "link": null,
+      "locked": false,
+      "text": "This OS and NIC communication takes place inside all devices",
+      "fontSize": 36,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "vsGjBShkXXySXDNIQGpUC",
+      "originalText": "This OS and NIC communication takes place inside all devices",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": 0.5
+    },
+    {
+      "id": "mkfLzoPTm1146mNQx4wkp",
+      "type": "arrow",
+      "x": 5812.896853327295,
+      "y": -3338.297505222272,
+      "width": 1015.5179936307377,
+      "height": 1414.1108674548968,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0z",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 44523266,
+      "version": 3085,
+      "versionNonce": 769046274,
+      "isDeleted": true,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "ru_b1RYtNTMzNa63eqnNQ"
+        }
+      ],
+      "updated": 1792755324602,
+      "created": 1792755318766,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1015.5179936307377,
+          1414.1108674548968
+        ]
+      ],
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "ru_b1RYtNTMzNa63eqnNQ",
+      "type": "text",
+      "x": 5403.054796268966,
+      "y": -2922.6310282005525,
+      "width": 669.8158569335938,
+      "height": 90,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b10",
+      "roundness": null,
+      "seed": 707276482,
+      "version": 147,
+      "versionNonce": 1230352926,
+      "isDeleted": true,
+      "boundElements": [],
+      "updated": 1792755324602,
+      "created": 1792755318766,
+      "link": null,
+      "locked": false,
+      "text": "This OS and NIC communication takes\nplace inside all devices",
+      "fontSize": 36,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "mkfLzoPTm1146mNQx4wkp",
+      "originalText": "This OS and NIC communication takes place inside all devices",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": 0.5
+    },
+    {
+      "id": "sHc5nrkt5jDASQ3jgx0T1",
+      "type": "arrow",
+      "x": 8612.911224838448,
+      "y": 4553.513429126069,
+      "width": 3732.493407455342,
+      "height": 12.487604291520256,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b11",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1953193566,
+      "version": 659,
+      "versionNonce": 412314434,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "nU7rCudDS_fGi0FGwgRwi"
+        }
+      ],
+      "updated": 1792756521785,
+      "created": 1792756412162,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          3732.493407455342,
+          12.487604291520256
+        ]
+      ],
+      "startBinding": {
+        "elementId": "a9EAApTUMYq8rf5E5EDDR",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.9999999999999988,
+          0.5001
+        ]
+      },
+      "endBinding": {
+        "elementId": "fbuFA4MlWHbmnvukyYBQ0",
+        "mode": "orbit",
+        "fixedPoint": [
+          0,
+          0.5001
+        ]
+      },
+      "startArrowhead": "arrow",
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "nU7rCudDS_fGi0FGwgRwi",
+      "type": "text",
+      "x": 9346.901641945027,
+      "y": 4228.924101389018,
+      "width": 1951.1788330078125,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b12",
+      "roundness": null,
+      "seed": 589738242,
+      "version": 194,
+      "versionNonce": 1791010946,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792756505352,
+      "created": 1792756445829,
+      "link": null,
+      "locked": false,
+      "text": "This connection is used for transferring the actual packet bytes as well as for DNS resolution of something your client does not have cached",
+      "fontSize": 28,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "sHc5nrkt5jDASQ3jgx0T1",
+      "originalText": "This connection is used for transferring the actual packet bytes as well as for DNS resolution of something your client does not have cached",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": 0.5
+    },
+    {
+      "id": "JQfqwrCEsCfEJ7_Vmvk4A",
+      "type": "diamond",
+      "x": 16745.824185167578,
+      "y": 3377.0219613934573,
+      "width": 2173.33251953125,
+      "height": 1959.9999999999995,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b13",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1306576898,
+      "version": 88,
+      "versionNonce": 428550018,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "TXMdoD4Qc-yhDEHlAPe2B"
+        },
+        {
+          "id": "u90Swja0ie8CdSRAW8QLh",
+          "type": "arrow"
+        },
+        {
+          "id": "z8JyWm5udiofGkaPNEOvM",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1792756633944,
+      "created": 1792756546040,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "TXMdoD4Qc-yhDEHlAPe2B",
+      "type": "text",
+      "x": 17615.991390978124,
+      "y": 4334.521961393457,
+      "width": 433.33184814453125,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b13V",
+      "roundness": null,
+      "seed": 1842407774,
+      "version": 29,
+      "versionNonce": 2097761346,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792756563476,
+      "created": 1792756551920,
+      "link": null,
+      "locked": false,
+      "text": "Massive carrier backbone",
+      "fontSize": 36,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "JQfqwrCEsCfEJ7_Vmvk4A",
+      "originalText": "Massive carrier backbone",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "jcgHWt8RrlbW-LVtonmqg",
+      "type": "text",
+      "x": 17653.556706224706,
+      "y": 4046.1882211590823,
+      "width": 11.199996948242188,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b14",
+      "roundness": null,
+      "seed": 2079825090,
+      "version": 3,
+      "versionNonce": 250808542,
+      "isDeleted": true,
+      "boundElements": null,
+      "updated": 1792756548864,
+      "created": 1792756547863,
+      "link": null,
+      "locked": false,
+      "text": "",
+      "fontSize": 28,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "rKFcsF56iPIeZSrgJ-Muf",
+      "type": "arrow",
+      "x": 15351.379325344986,
+      "y": 4609.244047981999,
+      "width": 0,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b15",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 2125505474,
+      "version": 67,
+      "versionNonce": 339282754,
+      "isDeleted": true,
+      "boundElements": null,
+      "updated": 1792756571864,
+      "created": 1792756570334,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ]
+      ],
+      "startBinding": {
+        "elementId": "gKGMNAS0IwALoYEAOjUN_",
+        "mode": "inside",
+        "fixedPoint": [
+          0.9985067670031501,
+          0.49888776953697245
+        ]
+      },
+      "endBinding": null,
+      "startArrowhead": "arrow",
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "SI6ztkyqHE3ZeYatQaenK",
+      "type": "arrow",
+      "x": 15389.712658678312,
+      "y": 4682.577228727441,
+      "width": 0,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b16",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1105132162,
+      "version": 100,
+      "versionNonce": 687352322,
+      "isDeleted": true,
+      "boundElements": null,
+      "updated": 1792756594820,
+      "created": 1792756593421,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ]
+      ],
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": "arrow",
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "u90Swja0ie8CdSRAW8QLh",
+      "type": "arrow",
+      "x": 15354.712658678312,
+      "y": 4609.243946256738,
+      "width": 1453.0575738007647,
+      "height": 250.99106293297245,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b17",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 36149698,
+      "version": 204,
+      "versionNonce": 780683010,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792756612327,
+      "created": 1792756607561,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1453.0575738007647,
+          -250.99106293297245
+        ]
+      ],
+      "startBinding": {
+        "elementId": "gKGMNAS0IwALoYEAOjUN_",
+        "mode": "inside",
+        "fixedPoint": [
+          0.9995266547837452,
+          0.49888772425867445
+        ]
+      },
+      "endBinding": {
+        "elementId": "JQfqwrCEsCfEJ7_Vmvk4A",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.031259597594689714,
+          0.5001
+        ]
+      },
+      "startArrowhead": "arrow",
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "6vLVEUnc2faeWXwmbq4Ej",
+      "type": "ellipse",
+      "x": 19660.824007148363,
+      "y": 3229.243641080957,
+      "width": 3026.666259765625,
+      "height": 2786.6665649414062,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b18",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1275252290,
+      "version": 175,
+      "versionNonce": 1111984670,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "z8JyWm5udiofGkaPNEOvM",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "-d8EJhQ-kXgjxx2ugYLd4"
+        }
+      ],
+      "updated": 1792756643184,
+      "created": 1792756623779,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "-d8EJhQ-kXgjxx2ugYLd4",
+      "type": "text",
+      "x": 20117.3612550249,
+      "y": 4577.341511063714,
+      "width": 2113.41552734375,
+      "height": 90,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b18V",
+      "roundness": null,
+      "seed": 1600347906,
+      "version": 292,
+      "versionNonce": 2090599938,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792756719516,
+      "created": 1792756643184,
+      "link": null,
+      "locked": false,
+      "text": "Other ISP under which all the resolutions happen yet again, and the server device packages it's own ethernet frame and\nsends it across via all the hops almost like the client side",
+      "fontSize": 36,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "6vLVEUnc2faeWXwmbq4Ej",
+      "originalText": "Other ISP under which all the resolutions happen yet again, and the server device packages it's own ethernet frame and sends it across via all the hops almost like the client side",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "z8JyWm5udiofGkaPNEOvM",
+      "type": "arrow",
+      "x": 18857.192990947606,
+      "y": 4359.17800715907,
+      "width": 797.6321237350312,
+      "height": 261.7092998011476,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b19",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1363548226,
+      "version": 322,
+      "versionNonce": 418672642,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792756638905,
+      "created": 1792756633943,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          797.6321237350312,
+          261.7092998011476
+        ]
+      ],
+      "startBinding": {
+        "elementId": "JQfqwrCEsCfEJ7_Vmvk4A",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.9687404024053102,
+          0.5001
+        ]
+      },
+      "endBinding": {
+        "elementId": "6vLVEUnc2faeWXwmbq4Ej",
+        "mode": "orbit",
+        "fixedPoint": [
+          0,
+          0.5001
+        ]
+      },
+      "startArrowhead": "arrow",
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "jGjnwwn4INK5OEBZkdX12",
+      "type": "rectangle",
+      "x": 14567.492539043044,
+      "y": -3161.8683686032873,
+      "width": 2706.666259765625,
+      "height": 3486.6668701171875,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b1A",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 54121758,
+      "version": 198,
+      "versionNonce": 1915306974,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "FIwt4GnAGM5cKKfsS5uHm"
+        }
+      ],
+      "updated": 1792757704121,
+      "created": 1792757684370,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "FIwt4GnAGM5cKKfsS5uHm",
+      "type": "text",
+      "x": 14608.032089824294,
+      "y": -2003.5349335446936,
+      "width": 2625.587158203125,
+      "height": 1170,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b1B",
+      "roundness": null,
+      "seed": 1380216414,
+      "version": 115,
+      "versionNonce": 1917917214,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792757704121,
+      "created": 1792757687827,
+      "link": null,
+      "locked": false,
+      "text": "Books to read\n\n\nTo build a rock-solid mental model of everything from physical NIC frames to global BGP routing, three books stand out as the absolute gold\nstandards:\n\n1. \"Computer Networking: A Top-Down Approach\" by James F. Kurose and Keith W. Ross\n\nWhy it fits: This is widely considered the best conceptual book on networking. Instead of starting with dry hardware specs, it takes a \"top-down\"\napproach—starting from applications and working its way down through transport, network (IP/routers), and data link (MAC/ARP) layers.\n\n2. \"Network Warrior\" by Gary Donahue\n\nWhy it fits: If you want to bridge the gap between home routers and real-world enterprise/ISP edge hardware (Cisco, routing tables, ASICs, VLANs),\nthis book cuts through the heavy academic theory and explains how networking actually works in production.\n\n3. \"TCP/IP Illustrated, Volume 1\" by W. Richard Stevens\n\nWhy it fits: The ultimate bible for low-level protocol mechanics. If you want to trace every single byte of an IP packet, see how ARP caches behave\nunder the hood, and look at actual packet captures, this is the definitive reference.\n\nMost of these are easily available as physical books or digital PDFs through standard technical libraries.\n\nWant a breakdown of specific online labs or free resources to practice capturing and viewing live packets yourself?\n\nYes",
+      "fontSize": 36,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "jGjnwwn4INK5OEBZkdX12",
+      "originalText": "Books to read\n\n\nTo build a rock-solid mental model of everything from physical NIC frames to global BGP routing, three books stand out as the absolute gold standards:\n\n1. \"Computer Networking: A Top-Down Approach\" by James F. Kurose and Keith W. Ross\n\nWhy it fits: This is widely considered the best conceptual book on networking. Instead of starting with dry hardware specs, it takes a \"top-down\" approach—starting from applications and working its way down through transport, network (IP/routers), and data link (MAC/ARP) layers.\n\n2. \"Network Warrior\" by Gary Donahue\n\nWhy it fits: If you want to bridge the gap between home routers and real-world enterprise/ISP edge hardware (Cisco, routing tables, ASICs, VLANs), this book cuts through the heavy academic theory and explains how networking actually works in production.\n\n3. \"TCP/IP Illustrated, Volume 1\" by W. Richard Stevens\n\nWhy it fits: The ultimate bible for low-level protocol mechanics. If you want to trace every single byte of an IP packet, see how ARP caches behave under the hood, and look at actual packet captures, this is the definitive reference.\n\nMost of these are easily available as physical books or digital PDFs through standard technical libraries.\n\nWant a breakdown of specific online labs or free resources to practice capturing and viewing live packets yourself?\n\nYes",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff",
+    "lockedMultiSelections": {}
+  },
+  "files": {}
+}
